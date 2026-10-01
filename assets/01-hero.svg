@@ -50,8 +50,8 @@ svg circle,svg rect{transform-box:fill-box;transform-origin:center}
 <circle cx="664" cy="146" r="2.5" fill="#C5F04A"/>
 </svg>
 <div style="position:relative;height:100%;box-sizing:border-box;padding:36px 44px 40px;display:flex;flex-direction:column;">
-<div style="display:flex;justify-content:space-between;align-items:center;">
-<span style="font-family:'Geist Mono',monospace;font-size:14px;color:#9BA6B4;">~/sarmadnawaz1/README.md</span>
+<div style="display:flex;justify-content:flex-end;align-items:center;">
+
 <div style="display:flex;align-items:center;gap:10px;padding:8px 14px 8px 12px;background:#10141A;border:1px solid #2B3440;border-radius:999px;">
 <span style="position:relative;width:8px;height:8px;display:block;"><span style="position:absolute;inset:0;border-radius:50%;background:#C5F04A;"></span><span style="position:absolute;inset:0;border-radius:50%;background:#C5F04A;opacity:0;animation:ring 2s ease-out infinite;"></span></span>
 <span style="font-family:'Geist Mono',monospace;font-size:13px;white-space:nowrap;color:#E6EAF0;">Open to AI engineering roles &amp; research</span>
